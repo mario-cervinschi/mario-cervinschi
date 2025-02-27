@@ -5,7 +5,7 @@
   
 🌱 I’m currently learning **everything about programming** 
 
-👨‍💻 See all projects I have worked on in this [GitHub Repository](https://github.com/mario-cervinschi?tab=repositories)
+👨‍💻 See all the projects I have worked on in this [GitHub Repository](https://github.com/mario-cervinschi?tab=repositories)
 
 </div>
 
