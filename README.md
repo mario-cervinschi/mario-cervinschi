@@ -3,7 +3,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **everything about programming** 
+🌱 I’m currently learning **more about WebDevelopment & Client-Server applications** 
 
 👨‍💻 See all the projects I have worked on in this [GitHub Repository](https://github.com/mario-cervinschi?tab=repositories)
 
